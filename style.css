@@ -1,0 +1,13 @@
+body {
+    font-family: Georgia, serif;
+    line-height: 1.7;
+}
+
+h1, h2, h3 {
+    color: #1a1a1a;
+}
+
+a {
+    color: #003366;
+    text-decoration: none;
+}
